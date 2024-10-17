@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="145" src="https://media.tenor.com/QeYnaHDLjQ8AAAAM/mbappe-world-cup.gif"  />
+<p align="center"><img height="145" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"  /> </p>
 
 ###
 
@@ -34,7 +34,11 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="35" alt="facebook logo"  />
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidTran050220004&show_icons=true&locale=en&layout=compact" alt="DavidTran050220004" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidTran050220004&show_icons=true&locale=en" alt="DavidTran050220004" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidTran050220004&show_icons=true&locale=en&layout=compact" alt="DavidTran050220004" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidTran050220004&show_icons=true&locale=en" alt="DavidTran050220004" /></p>
+</div>
+
+
 
 ###
