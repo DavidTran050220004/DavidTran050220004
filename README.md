@@ -1,4 +1,4 @@
-<h2 align="center">Hi Everyone 👋! My name is David, I'm a Programer Web and App</h2>
+<h2 align="center">Hi Everyone 👋, My name is David, I'm a Programer Web and App</h2>
 
 ###
 <br>
